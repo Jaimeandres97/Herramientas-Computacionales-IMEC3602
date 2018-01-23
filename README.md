@@ -1,5 +1,5 @@
 # Herramientas-Computacionales-IMEC3602
-Repositorio correspondiente a los trabajos y proyectos de la asignatura repositorio llamado Herramientas Computacionales IMEC3602
+Repositorio correspondiente a los trabajos y proyectos de la asignatura Herramientas Computacionales IMEC3602
 
 ## Objetivos Principales:
 - [ ] Aprender a utilizar las herramientas computacionales que se presentaran en el curso
