@@ -1,0 +1,6 @@
+Ajustes de curva:
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
+
+Regresión lineal:
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html#scipy.stats.linregress
+http://scipy-cookbook.readthedocs.io/items/LinearRegression.html
